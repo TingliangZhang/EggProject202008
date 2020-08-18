@@ -15,7 +15,7 @@ NeoPixel Jewel - 7 x 5050 RGBW LED w/ Integrated Drivers - Warm White - ~3000K
 
 [https://www.adafruit.com/product/2858](https://www.adafruit.com/product/2858)
 
-![图片](https://uploader.shimo.im/f/ZKDKEMyBysHMVNPR.png!thumbnail)
+
 
 - [ ] 5V锂电+充电宝备用（7.4V锂电+降压？/ 21V耐压NANO的Vin直接接杜邦线？灯环功率会不会太大）——短USB备用 
 
