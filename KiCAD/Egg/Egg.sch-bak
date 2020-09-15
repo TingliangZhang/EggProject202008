@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Module:Arduino_Nano_v2.x A?
+L MCU_Module:Arduino_Nano_v2.x A1
 U 1 1 5F46BD4B
 P 3750 3300
-F 0 "A?" H 3750 2211 50  0000 C CNN
+F 0 "A1" H 3750 2211 50  0000 C CNN
 F 1 "Arduino_Nano_v2.x" H 3750 2120 50  0000 C CNN
 F 2 "Module:Arduino_Nano_WithMountingHoles" H 3750 3300 50  0001 C CIN
 F 3 "https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf" H 3750 3300 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf" H 3750 3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D?
+L LED:WS2812B D1
 U 1 1 5F6043E7
 P 1100 1100
-F 0 "D?" H 1444 1146 50  0000 L CNN
+F 0 "D1" H 1444 1146 50  0000 L CNN
 F 1 "WS2812B" H 1444 1055 50  0000 L CNN
 F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1150 800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1200 725 50  0001 L TNN
@@ -36,10 +36,10 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1200 725 50  0001 L
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D?
+L LED:WS2812B D2
 U 1 1 5F606A1F
 P 2100 1100
-F 0 "D?" H 2444 1146 50  0000 L CNN
+F 0 "D2" H 2444 1146 50  0000 L CNN
 F 1 "WS2812B" H 2444 1055 50  0000 L CNN
 F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2150 800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2200 725 50  0001 L TNN
@@ -47,10 +47,10 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2200 725 50  0001 L
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D?
+L LED:WS2812B D3
 U 1 1 5F608368
 P 3100 1100
-F 0 "D?" H 3444 1146 50  0000 L CNN
+F 0 "D3" H 3444 1146 50  0000 L CNN
 F 1 "WS2812B" H 3444 1055 50  0000 L CNN
 F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3150 800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3200 725 50  0001 L TNN
@@ -58,10 +58,10 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3200 725 50  0001 L
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D?
+L LED:WS2812B D4
 U 1 1 5F60C729
 P 4100 1100
-F 0 "D?" H 4444 1146 50  0000 L CNN
+F 0 "D4" H 4444 1146 50  0000 L CNN
 F 1 "WS2812B" H 4444 1055 50  0000 L CNN
 F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4150 800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4200 725 50  0001 L TNN
@@ -69,10 +69,10 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4200 725 50  0001 L
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D?
+L LED:WS2812B D5
 U 1 1 5F60D2EA
 P 5100 1100
-F 0 "D?" H 5444 1146 50  0000 L CNN
+F 0 "D5" H 5444 1146 50  0000 L CNN
 F 1 "WS2812B" H 5444 1055 50  0000 L CNN
 F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5150 800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5200 725 50  0001 L TNN
@@ -80,10 +80,10 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5200 725 50  0001 L
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D?
+L LED:WS2812B D6
 U 1 1 5F60E008
 P 6100 1100
-F 0 "D?" H 6444 1146 50  0000 L CNN
+F 0 "D6" H 6444 1146 50  0000 L CNN
 F 1 "WS2812B" H 6444 1055 50  0000 L CNN
 F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6150 800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6200 725 50  0001 L TNN
@@ -91,10 +91,10 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6200 725 50  0001 L
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5F623C17
 P 6100 1500
-F 0 "#PWR?" H 6100 1250 50  0001 C CNN
+F 0 "#PWR0101" H 6100 1250 50  0001 C CNN
 F 1 "GND" H 6105 1327 50  0000 C CNN
 F 2 "" H 6100 1500 50  0001 C CNN
 F 3 "" H 6100 1500 50  0001 C CNN
@@ -102,10 +102,10 @@ F 3 "" H 6100 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0102
 U 1 1 5F6244C7
 P 6100 700
-F 0 "#PWR?" H 6100 550 50  0001 C CNN
+F 0 "#PWR0102" H 6100 550 50  0001 C CNN
 F 1 "+5V" H 6115 873 50  0000 C CNN
 F 2 "" H 6100 700 50  0001 C CNN
 F 3 "" H 6100 700 50  0001 C CNN
@@ -199,10 +199,10 @@ NFC1
 Text Label 3050 3500 0    50   ~ 0
 NFC2
 $Comp
-L Mechanical:MountingHole_Pad H?
+L Mechanical:MountingHole_Pad H1
 U 1 1 5F64094E
 P 6800 1000
-F 0 "H?" H 6900 1049 50  0000 L CNN
+F 0 "H1" H 6900 1049 50  0000 L CNN
 F 1 "MountingHole_Pad" H 6900 958 50  0000 L CNN
 F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" H 6800 1000 50  0001 C CNN
 F 3 "~" H 6800 1000 50  0001 C CNN
@@ -210,10 +210,10 @@ F 3 "~" H 6800 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Battery_Cell BT?
+L Device:Battery_Cell BT1
 U 1 1 5F642495
 P 6650 2950
-F 0 "BT?" H 6768 3046 50  0000 L CNN
+F 0 "BT1" H 6768 3046 50  0000 L CNN
 F 1 "Battery_Cell" H 6768 2955 50  0000 L CNN
 F 2 "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical" V 6650 3010 50  0001 C CNN
 F 3 "~" V 6650 3010 50  0001 C CNN
@@ -221,25 +221,14 @@ F 3 "~" V 6650 3010 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR?
+L power:GNDPWR #PWR0103
 U 1 1 5F6435C9
 P 6650 3150
-F 0 "#PWR?" H 6650 2950 50  0001 C CNN
+F 0 "#PWR0103" H 6650 2950 50  0001 C CNN
 F 1 "GNDPWR" H 6654 2996 50  0000 C CNN
 F 2 "" H 6650 3100 50  0001 C CNN
 F 3 "" H 6650 3100 50  0001 C CNN
 	1    6650 3150
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+7.5V #PWR?
-U 1 1 5F6448FC
-P 6650 2650
-F 0 "#PWR?" H 6650 2500 50  0001 C CNN
-F 1 "+7.5V" H 6665 2823 50  0000 C CNN
-F 2 "" H 6650 2650 50  0001 C CNN
-F 3 "" H 6650 2650 50  0001 C CNN
-	1    6650 2650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -247,10 +236,10 @@ Wire Wire Line
 Wire Wire Line
 	6650 3050 6650 3150
 $Comp
-L Connector:Conn_01x03_Female J?
+L Connector:Conn_01x03_Female J2
 U 1 1 5F60CF12
 P 5900 4000
-F 0 "J?" H 5928 4026 50  0000 L CNN
+F 0 "J2" H 5928 4026 50  0000 L CNN
 F 1 "Conn_01x03_Female_VibrationMotor" H 5928 3935 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5900 4000 50  0001 C CNN
 F 3 "~" H 5900 4000 50  0001 C CNN
@@ -258,10 +247,10 @@ F 3 "~" H 5900 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0105
 U 1 1 5F60E207
 P 5600 3850
-F 0 "#PWR?" H 5600 3700 50  0001 C CNN
+F 0 "#PWR0105" H 5600 3700 50  0001 C CNN
 F 1 "+5V" H 5615 4023 50  0000 C CNN
 F 2 "" H 5600 3850 50  0001 C CNN
 F 3 "" H 5600 3850 50  0001 C CNN
@@ -269,10 +258,10 @@ F 3 "" H 5600 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0106
 U 1 1 5F60F1E7
 P 5600 4150
-F 0 "#PWR?" H 5600 3900 50  0001 C CNN
+F 0 "#PWR0106" H 5600 3900 50  0001 C CNN
 F 1 "GND" H 5605 3977 50  0000 C CNN
 F 2 "" H 5600 4150 50  0001 C CNN
 F 3 "" H 5600 4150 50  0001 C CNN
@@ -280,10 +269,10 @@ F 3 "" H 5600 4150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0107
 U 1 1 5F60FD0B
 P 3850 4600
-F 0 "#PWR?" H 3850 4350 50  0001 C CNN
+F 0 "#PWR0107" H 3850 4350 50  0001 C CNN
 F 1 "GND" H 3855 4427 50  0000 C CNN
 F 2 "" H 3850 4600 50  0001 C CNN
 F 3 "" H 3850 4600 50  0001 C CNN
@@ -291,10 +280,10 @@ F 3 "" H 3850 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0108
 U 1 1 5F611C0C
 P 3950 2200
-F 0 "#PWR?" H 3950 2050 50  0001 C CNN
+F 0 "#PWR0108" H 3950 2050 50  0001 C CNN
 F 1 "+5V" H 3965 2373 50  0000 C CNN
 F 2 "" H 3950 2200 50  0001 C CNN
 F 3 "" H 3950 2200 50  0001 C CNN
@@ -330,10 +319,10 @@ SDA
 Text Label 4450 3800 2    50   ~ 0
 SCL
 $Comp
-L Connector_Generic:Conn_01x05 J?
+L Connector_Generic:Conn_01x05 J1
 U 1 1 5F618F19
 P 5850 4950
-F 0 "J?" H 5930 4992 50  0000 L CNN
+F 0 "J1" H 5930 4992 50  0000 L CNN
 F 1 "Conn_01x05_NFC" H 5930 4901 50  0000 L CNN
 F 2 "Connector_JST:JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical" H 5850 4950 50  0001 C CNN
 F 3 "~" H 5850 4950 50  0001 C CNN
@@ -352,10 +341,10 @@ Wire Wire Line
 Wire Wire Line
 	3950 2300 3950 2200
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0109
 U 1 1 5F61CB4E
 P 5550 4650
-F 0 "#PWR?" H 5550 4500 50  0001 C CNN
+F 0 "#PWR0109" H 5550 4500 50  0001 C CNN
 F 1 "+5V" H 5565 4823 50  0000 C CNN
 F 2 "" H 5550 4650 50  0001 C CNN
 F 3 "" H 5550 4650 50  0001 C CNN
@@ -363,10 +352,10 @@ F 3 "" H 5550 4650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0110
 U 1 1 5F61DE76
 P 5550 5250
-F 0 "#PWR?" H 5550 5000 50  0001 C CNN
+F 0 "#PWR0110" H 5550 5000 50  0001 C CNN
 F 1 "GND" H 5555 5077 50  0000 C CNN
 F 2 "" H 5550 5250 50  0001 C CNN
 F 3 "" H 5550 5250 50  0001 C CNN
@@ -393,4 +382,43 @@ Text Label 5400 4950 0    50   ~ 0
 SDA
 Text Label 5400 5050 0    50   ~ 0
 SCL
+$Comp
+L power:+5V #PWR0104
+U 1 1 5F615B3C
+P 6650 2650
+F 0 "#PWR0104" H 6650 2500 50  0001 C CNN
+F 1 "+5V" H 6665 2823 50  0000 C CNN
+F 2 "" H 6650 2650 50  0001 C CNN
+F 3 "" H 6650 2650 50  0001 C CNN
+	1    6650 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR?
+U 1 1 5F616438
+P 5600 3100
+F 0 "#PWR?" H 5600 2900 50  0001 C CNN
+F 1 "GNDPWR" H 5604 2946 50  0000 C CNN
+F 2 "" H 5600 3050 50  0001 C CNN
+F 3 "" H 5600 3050 50  0001 C CNN
+	1    5600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5F616D41
+P 5900 3100
+F 0 "#PWR?" H 5900 2850 50  0001 C CNN
+F 1 "GND" H 5905 2927 50  0000 C CNN
+F 2 "" H 5900 3100 50  0001 C CNN
+F 3 "" H 5900 3100 50  0001 C CNN
+	1    5900 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 3100 5600 3000
+Wire Wire Line
+	5600 3000 5900 3000
+Wire Wire Line
+	5900 3000 5900 3100
 $EndSCHEMATC
